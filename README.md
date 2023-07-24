@@ -3,8 +3,6 @@
 - 🌱 I’m currently learning Kotlin with Jatpack Compose and Utilize Google Earth Engine
 - 📫 How to reach me jenusdy@gmail.com
 
-Today I'm a newbie (2022-10-27) but maybe someday will be a master LOL 
-
 ![Stats](https://github-readme-stats.vercel.app/api?username=jenusdy&count_private=true&show_icons=true&title_color=1f8ae0&icon_color=1f66e0&text_color=0e0e0e&bg_color=fefefe) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jenusdy&layout=compact)
 
