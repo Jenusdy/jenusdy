@@ -18,7 +18,5 @@ Today I'm a newbie (2022-10-27) but maybe someday will be a master LOL
 
 
 [website]: https://jenusdy.github.io
-[twitter]: https://twitter.com/kopikopipagi/
 [youtube]: https://www.youtube.com/channel/UCn4eE_HmaEYfwmgppsbvGKg
-[instagram]: https://instagram.com/jenusdy_
 [linkedin]: https://www.linkedin.com/in/jenusdy/
