@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jenusdy
 - 👀 I’m interested in Mobile Android App Development and GIS
-- 🌱 I’m currently learning Kotlin with Jatpack Compose and Utilize Google Earth Engine
+- 🌱 I’m currently learning Kotlin with Jetpack Compose and Utilize Google Earth Engine
 - 📫 How to reach me
 
 <div align="center">
