@@ -24,6 +24,4 @@
   </tr>
 </table>  
 
-<div align="center">
-  Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a>
-</div>
+![](https://komarev.com/ghpvc/?username=jenusdy&style=for-the-badge)
